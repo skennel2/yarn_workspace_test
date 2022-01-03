@@ -16,3 +16,7 @@ https://www.daleseo.com/js-node-es-modules/
 workspace 루트 package.json이 아닌 개별 프로젝트에서 변경  
 workspace 루트에서만 변경했을때는 동작 안하는것 확인
 ```
+
+### 참고
+https://classic.yarnpkg.com/lang/en/docs/workspaces/  
+https://www.daleseo.com/js-node-es-modules/  
